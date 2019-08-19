@@ -1,4 +1,3 @@
-# Classification-Regression-MarketBasketAnalysis-2
 ## Regression for Sales volume 
 
 ### Objects and goals
